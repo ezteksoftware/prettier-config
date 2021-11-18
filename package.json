@@ -1,0 +1,13 @@
+{
+  "name": "@eztek/prettier-config",
+  "version": "1.0.0",
+  "description": "A Prettier shareable config for projects using 'Prettier",
+  "main": ".prettierrc.json",
+  "keywords": [
+    "prettier",
+    "prettier-config",
+    "prettierconfig"
+  ],
+  "author": "truonghungit@gmail.com",
+  "homepage": "https://github.com/ezteksoftware/prettier-config#readme"
+}
