@@ -1,4 +1,4 @@
-# A shared Prettier config
+# `@eztek/prettier-config`
 
 ## Installation
 
